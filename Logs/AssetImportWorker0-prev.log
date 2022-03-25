@@ -1,0 +1,1318 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.31f1 (6b54b7616050) revision 7034039'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'ko' Physical Memory: 16250 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/LearningUNITY/TopDown2DTank
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+2031
+Successfully changed project path to: D:/LearningUNITY/TopDown2DTank
+D:/LearningUNITY/TopDown2DTank
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 58.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.31f1 (6b54b7616050)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/LearningUNITY/TopDown2DTank/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   
+    VRAM:     8125 MB
+    Driver:   30.0.101.1340
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56976
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002764 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 65.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.719 seconds
+Domain Reload Profiling:
+	ReloadAssembly (719ms)
+		BeginReloadAssembly (79ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (553ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (169ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (214ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (65ms)
+				BeforeProcessingInitializeOnLoad (19ms)
+				ProcessInitializeOnLoadAttributes (93ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003148 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 57.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.391 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1393ms)
+		BeginReloadAssembly (188ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (1130ms)
+			LoadAssemblies (133ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (396ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (410ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (57ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (222ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.1 MB.
+System memory in use after: 97.0 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+Total: 3.244900 ms (FindLiveObjects: 0.165000 ms CreateObjectMapping: 0.094000 ms MarkObjects: 2.831200 ms  DeleteObjects: 0.153900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sprites
+  artifactKey: Guid(c1a10dbae8575774f8a9a95b791ca0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(c1a10dbae8575774f8a9a95b791ca0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3468da2189826122a10fc0b41aa94f87') in 0.009826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.625401 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux
+  artifactKey: Guid(5b291b61b60922d478a9201859c88785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux using Guid(5b291b61b60922d478a9201859c88785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'befdbcd100f5b482742edc628d3b3194') in 0.012733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.252521 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG
+  artifactKey: Guid(728445fd301678041ad2ec6b7b69f658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG using Guid(728445fd301678041ad2ec6b7b69f658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfb4ba4792fd5fcadfe9bfa31e02c88') in 0.010947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.925402 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina
+  artifactKey: Guid(e84b779c22e01a24e97439a746e34f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina using Guid(e84b779c22e01a24e97439a746e34f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd182327b78ee410a260b0cad28c4401c') in 0.010852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.082201 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelBlack_side.png
+  artifactKey: Guid(93e29a9666be1cc4cbf1ce17fab903c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelBlack_side.png using Guid(93e29a9666be1cc4cbf1ce17fab903c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389d46bc3d8a10b05a8068b082149cde') in 0.126099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelBlack_top.png
+  artifactKey: Guid(2be70561c81985740a13ed5a21789dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelBlack_top.png using Guid(2be70561c81985740a13ed5a21789dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec2dd22bb08b65273a5c9617038e7a6') in 0.025759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelRust_top.png
+  artifactKey: Guid(448d4ef246e270049ad433e45a80db5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelRust_top.png using Guid(448d4ef246e270049ad433e45a80db5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a347f396e4a627d0d448f4d483b6c72c') in 0.022398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barricadeMetal.png
+  artifactKey: Guid(c7e771c2d30f370469f4899309b3a583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barricadeMetal.png using Guid(c7e771c2d30f370469f4899309b3a583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '684237aca6d950346a2fa7512ed68d10') in 0.023223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelRust_side.png
+  artifactKey: Guid(887634d85a3b2334495dada88e8c551e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelRust_side.png using Guid(887634d85a3b2334495dada88e8c551e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6fa52e9d6941de8408c31b9fd450081') in 0.026898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue1_outline.png
+  artifactKey: Guid(4197876b4c236a345aef8b5c77ae864a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue1_outline.png using Guid(4197876b4c236a345aef8b5c77ae864a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0528423049eb91d3082b17b83e2460') in 0.026120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelGreen_top.png
+  artifactKey: Guid(fc29ef2298226b8449daebfc592a061b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelGreen_top.png using Guid(fc29ef2298226b8449daebfc592a061b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db661da43e1cdd0df4bc896dad60a11b') in 0.022851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue1.png
+  artifactKey: Guid(7a132ec2a34f4d34ba7354cadec7f378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue1.png using Guid(7a132ec2a34f4d34ba7354cadec7f378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70c24286ba07235dede2fba839916f5b') in 0.017525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barricadeWood.png
+  artifactKey: Guid(380e56e9c73a1c141a61bb3cc52c0116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barricadeWood.png using Guid(380e56e9c73a1c141a61bb3cc52c0116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b700b021702fde3c51a44a540a33afbd') in 0.022161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelGreen_side.png
+  artifactKey: Guid(d9cf0a47bb487d54496a08dd5816341d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelGreen_side.png using Guid(d9cf0a47bb487d54496a08dd5816341d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ca37d8d773cb07f498e4d09247a612') in 0.021280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelRed_top.png
+  artifactKey: Guid(ff5a06b1be5a81648ab7cf1fe5e4e108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelRed_top.png using Guid(ff5a06b1be5a81648ab7cf1fe5e4e108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec4b28424d7426cbfd24f27e1da2733') in 0.019657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelRed_side.png
+  artifactKey: Guid(9e98c11a84b21b24bb6a436498644df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/barrelRed_side.png using Guid(9e98c11a84b21b24bb6a436498644df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a7352114dc03fa5e620f910bf93f855') in 0.022099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.619027 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue2.png
+  artifactKey: Guid(9ac0b13bbcb58cc46bcecd28bd3403bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue2.png using Guid(9ac0b13bbcb58cc46bcecd28bd3403bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3b2b4606f75550d6685e48aad3f5b3') in 0.027250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue2_outline.png
+  artifactKey: Guid(e52cec444d5f97d46af4b499ccd7ac57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue2_outline.png using Guid(e52cec444d5f97d46af4b499ccd7ac57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '722a00e98d70d65e1de565e0003b5855') in 0.021356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue3.png
+  artifactKey: Guid(731a9f37b9067b043b50854f39952dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue3.png using Guid(731a9f37b9067b043b50854f39952dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0167d3a889ba2e36ee0d1297df61e0ef') in 0.018422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.223237 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue3_outline.png
+  artifactKey: Guid(3e6c65daecd8e1e4cbbfec766dd7a1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletBlue3_outline.png using Guid(3e6c65daecd8e1e4cbbfec766dd7a1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c8801c7fa89dd90815d3eace8e89a3') in 0.033274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark3.png
+  artifactKey: Guid(55e338e949d37be4aa67cda443dcd454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark3.png using Guid(55e338e949d37be4aa67cda443dcd454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff03936363c0b1b033ee655db8dd716') in 0.018193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark2_outline.png
+  artifactKey: Guid(11f0f9438ec03464f8dc4b84c07343b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark2_outline.png using Guid(11f0f9438ec03464f8dc4b84c07343b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454a026dc39f6a1af83f7afb7b685fa3') in 0.019424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark1_outline.png
+  artifactKey: Guid(9842b7f0637dcb149ae6c6282468f5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark1_outline.png using Guid(9842b7f0637dcb149ae6c6282468f5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fcd301451c9c87f85d116025e3bc01d') in 0.021760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark1.png
+  artifactKey: Guid(35c1e5b2e6165284d8fe51ddd5d2dc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark1.png using Guid(35c1e5b2e6165284d8fe51ddd5d2dc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc254fc8a496a60bc64d316a3d84ad8') in 0.020687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark2.png
+  artifactKey: Guid(98b3956ecb1ef4140887f28467bc00b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark2.png using Guid(98b3956ecb1ef4140887f28467bc00b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2225298aac46bea9fe9f7c98c92becf8') in 0.018828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.412182 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/Materials
+  artifactKey: Guid(bd5fa9e19e67dd845bac2aa63d20c99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/Materials using Guid(bd5fa9e19e67dd845bac2aa63d20c99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11000696e52e0bb2caca744954706332') in 0.007646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.089370 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/Materials/tracksSmall.mat
+  artifactKey: Guid(a784682452db68543a1fbd8559a557ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/Materials/tracksSmall.mat using Guid(a784682452db68543a1fbd8559a557ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4bbf737fa060f95128679d3f8b7901') in 0.131660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.839473 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark3_outline.png
+  artifactKey: Guid(191f4dd1674228e42b25b3be595dedb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletDark3_outline.png using Guid(191f4dd1674228e42b25b3be595dedb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122b1d97169d62a42e0c51543a819c09') in 0.025136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen2_outline.png
+  artifactKey: Guid(cb920d8909ed70b42b5f39fecaebb8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen2_outline.png using Guid(cb920d8909ed70b42b5f39fecaebb8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a44b64d978d9ffd0e9e26899baf1a95') in 0.022913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen1.png
+  artifactKey: Guid(d059c194b2b762d48a8e2c6efd3c9595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen1.png using Guid(d059c194b2b762d48a8e2c6efd3c9595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e18d8e56f74e5acfdf266e122432d5') in 0.019033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen3.png
+  artifactKey: Guid(9b9b7a8f0a7ab4f40b50c8020100eb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen3.png using Guid(9b9b7a8f0a7ab4f40b50c8020100eb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '553a15d9ca5f44c6b5698d3f1d0f3b9c') in 0.018366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen2.png
+  artifactKey: Guid(e80ad3f639fc10943ae752a448e908fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen2.png using Guid(e80ad3f639fc10943ae752a448e908fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be93f9264ca8a2b5ce026eb8c20ee01') in 0.021729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen1_outline.png
+  artifactKey: Guid(27cdd1b3f551c474c8de011ee182c826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen1_outline.png using Guid(27cdd1b3f551c474c8de011ee182c826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5cbb6b6638e097ced8f9b127b4021e') in 0.018597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.134699 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen3_outline.png
+  artifactKey: Guid(0c064b7edbd299844953b2a8f402ac2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletGreen3_outline.png using Guid(0c064b7edbd299844953b2a8f402ac2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628665f2b4da4559e6a284014a791279') in 0.041378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed1_outline.png
+  artifactKey: Guid(af1d9840e2c361641ae143f86c504c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed1_outline.png using Guid(af1d9840e2c361641ae143f86c504c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46f9b8c4efcfc4e2446de22895efe1e') in 0.021656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand2.png
+  artifactKey: Guid(d09544ab16035454689950bd0ecf1bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand2.png using Guid(d09544ab16035454689950bd0ecf1bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db69be7bfc18f5ba36cd87d101a3c5cf') in 0.021968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed2_outline.png
+  artifactKey: Guid(d7b9b16865a7a9d41881c342cb837fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed2_outline.png using Guid(d7b9b16865a7a9d41881c342cb837fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315f099057e4dc99541a0dab2050f9db') in 0.020172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand2_outline.png
+  artifactKey: Guid(6e4b84a4fa79f6641b331bb0c2fc7740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand2_outline.png using Guid(6e4b84a4fa79f6641b331bb0c2fc7740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50401f7b5eb4d10c85dd8d81e96b83a') in 0.017824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand1.png
+  artifactKey: Guid(22d454391a663564d93f3d365cc7178e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand1.png using Guid(22d454391a663564d93f3d365cc7178e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95721bb6d8f6f38a77d613a1aaf940d8') in 0.020834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed2.png
+  artifactKey: Guid(4d566f1318485f54d9bc234daa8436f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed2.png using Guid(4d566f1318485f54d9bc234daa8436f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29060cc5b8981561020882a45f897bf5') in 0.017875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed3_outline.png
+  artifactKey: Guid(8b59ced27320306449be7f2bc7b6b657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed3_outline.png using Guid(8b59ced27320306449be7f2bc7b6b657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a3fbd94d2285acf3f01314c0e54546') in 0.018784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand1_outline.png
+  artifactKey: Guid(6e1e71ac29708b3438ac387e560a71df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand1_outline.png using Guid(6e1e71ac29708b3438ac387e560a71df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940fba293dd6182b4ccaa2427b4c2173') in 0.017570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed1.png
+  artifactKey: Guid(397b8aaabcf26f74db77ad1c3351a6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed1.png using Guid(397b8aaabcf26f74db77ad1c3351a6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada8d0968e224d1dea10a8b4e9682945') in 0.019813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed3.png
+  artifactKey: Guid(fc0fed323478c2b42844d934a501ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletRed3.png using Guid(fc0fed323478c2b42844d934a501ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1fcebbe7c1f761ee947e90b29b8201') in 0.026986 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand3.png
+  artifactKey: Guid(c3aac8dc41e05a9419345412224668c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand3.png using Guid(c3aac8dc41e05a9419345412224668c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc3254fdf54c16a06e2bf4b72b4ad8f') in 0.033147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/crateMetal.png
+  artifactKey: Guid(db9d604defb4c9a4982cf7cde46fc421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/crateMetal.png using Guid(db9d604defb4c9a4982cf7cde46fc421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b67570ff511f1e8e1f7e9f236d7dd62') in 0.033499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion1.png
+  artifactKey: Guid(3b845a06d997b57418d461b285c7991e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion1.png using Guid(3b845a06d997b57418d461b285c7991e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907cd56d163b517cd99dbbf3875a3a39') in 0.023484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion4.png
+  artifactKey: Guid(30eaf0771e6b81f4d9283df216110ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion4.png using Guid(30eaf0771e6b81f4d9283df216110ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6dbf22ed85c40d922e4363c79a6d10') in 0.022540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/crateMetal_side.png
+  artifactKey: Guid(c828e42110f070345bb0cd0aebccb4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/crateMetal_side.png using Guid(c828e42110f070345bb0cd0aebccb4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f8ea5dae64af6f03fa9d140b5c411e8') in 0.019900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/crateWood_side.png
+  artifactKey: Guid(09cde87822c681d4f8b5c238ac92550a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/crateWood_side.png using Guid(09cde87822c681d4f8b5c238ac92550a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52069e9dd45973ec59057d106c0069a8') in 0.017666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand3_outline.png
+  artifactKey: Guid(191a76b44674c4c4091ff1a0cc8a6f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/bulletSand3_outline.png using Guid(191a76b44674c4c4091ff1a0cc8a6f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c0190b84810120f1d7e4a5d3ac9e114') in 0.022274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/crateWood.png
+  artifactKey: Guid(ba53e72bfb8466649a3211637cfd749e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/crateWood.png using Guid(ba53e72bfb8466649a3211637cfd749e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095e9a9025d7d9697a184494cd450a76') in 0.017059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion2.png
+  artifactKey: Guid(204028584e69f7744867ed4a5a168a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion2.png using Guid(204028584e69f7744867ed4a5a168a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1176cad6ba80898d3915f00d7d59b75') in 0.019384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion3.png
+  artifactKey: Guid(79a1d0db459f5ef4cb7e310449c22913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion3.png using Guid(79a1d0db459f5ef4cb7e310449c22913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50c58f1f32cdf1ed16cf0c825555122') in 0.023165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.261079 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion5.png
+  artifactKey: Guid(be0b51d1abb3eaa4dbfec0d3516387de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosion5.png using Guid(be0b51d1abb3eaa4dbfec0d3516387de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a27f95a19f87f0746ed2605b285768') in 0.028797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke3.png
+  artifactKey: Guid(960b91d087fd77b47aaa36b6c04ddb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke3.png using Guid(960b91d087fd77b47aaa36b6c04ddb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd625e9391a6a067146a628512b9c88a') in 0.023665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke1.png
+  artifactKey: Guid(c6494324137075b4bb719be2c9d5cc4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke1.png using Guid(c6494324137075b4bb719be2c9d5cc4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42aaa6ff44e085aa3531ba47379c4af7') in 0.021474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/fenceYellow.png
+  artifactKey: Guid(f89542a35ddb5e2478d447b3c3349d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/fenceYellow.png using Guid(f89542a35ddb5e2478d447b3c3349d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df486e0c6632a83c713c0416028a7b77') in 0.019401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke4.png
+  artifactKey: Guid(74c5ea512aa029746a8a67c75e8cd1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke4.png using Guid(74c5ea512aa029746a8a67c75e8cd1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '808f77158f5e2b6fd75213a3520280f7') in 0.022722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/oilSpill_large.png
+  artifactKey: Guid(5ffe3773f4758534fbd16d6918be42d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/oilSpill_large.png using Guid(5ffe3773f4758534fbd16d6918be42d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee2392e7ef51ffd88e9d5ee5012e3773') in 0.021331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/fenceRed.png
+  artifactKey: Guid(1457cf4ad025ed448be14db27bd4795b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/fenceRed.png using Guid(1457cf4ad025ed448be14db27bd4795b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadbba01593c0e43c4dc4116c1597f57') in 0.021169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke5.png
+  artifactKey: Guid(07955bdaac539454aa38b1eca749148c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke5.png using Guid(07955bdaac539454aa38b1eca749148c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae324dd6188508ee976979e2d800667f') in 0.020709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke2.png
+  artifactKey: Guid(0340428d4399dec4cb22ca8a5a29d0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/explosionSmoke2.png using Guid(0340428d4399dec4cb22ca8a5a29d0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd26c17d69807176fc4e80b1fa4b6d4') in 0.020966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.439739 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/oilSpill_small.png
+  artifactKey: Guid(18165abc09bc3d448a4dd5f67d239c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/oilSpill_small.png using Guid(18165abc09bc3d448a4dd5f67d239c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e963e6543536eaad544fdf9626cfe907') in 0.041776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/shotThin.png
+  artifactKey: Guid(6e70199d0ed984d4fa94acf7f2530171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/shotThin.png using Guid(6e70199d0ed984d4fa94acf7f2530171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '324ca1fde66877e585de15c4db880a5d') in 0.022816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/sandbagBeige_open.png
+  artifactKey: Guid(9a1ef9e164bcfdd41a045b7049840984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/sandbagBeige_open.png using Guid(9a1ef9e164bcfdd41a045b7049840984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5f641cc928245c5ee14848e17ae155') in 0.020865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/sandbagBeige.png
+  artifactKey: Guid(c38ba07f8a3f1b544990736c865b3d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/sandbagBeige.png using Guid(c38ba07f8a3f1b544990736c865b3d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d86cc03ce6c4e864a4be5e85c40aeef') in 0.018891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/sandbagBrown_open.png
+  artifactKey: Guid(69991451e6a562248aca88a3922ae3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/sandbagBrown_open.png using Guid(69991451e6a562248aca88a3922ae3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c2fa82b3aea1b2d853fb69912dff8d') in 0.018215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/sandbagBrown.png
+  artifactKey: Guid(28fa273839f325647af04b552009db6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/sandbagBrown.png using Guid(28fa273839f325647af04b552009db6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c99bfa62a4962d880d8f2dc26ae332') in 0.020047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/shotOrange.png
+  artifactKey: Guid(a13a4746e961ce84b98510752e59b18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/shotOrange.png using Guid(a13a4746e961ce84b98510752e59b18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2640747ae969ffeec692ddc8f33127') in 0.019139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/shotLarge.png
+  artifactKey: Guid(166dde8b26910de48bc6550d75ba1e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/shotLarge.png using Guid(166dde8b26910de48bc6550d75ba1e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34612489cf60ec948e68568c1422ccd') in 0.020973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/shotRed.png
+  artifactKey: Guid(206e3e3caf326a04a824155626884a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/shotRed.png using Guid(206e3e3caf326a04a824155626884a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496812a4fa390ccc0e320553221edc67') in 0.020948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.403981 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel1.png
+  artifactKey: Guid(8981ac64dac67f34fa67721183b94e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel1.png using Guid(8981ac64dac67f34fa67721183b94e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8002c8c714a94525f9958b643e1566') in 0.033432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel5.png
+  artifactKey: Guid(3215adbb696d0a2459951714c1e3ec9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel5.png using Guid(3215adbb696d0a2459951714c1e3ec9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874ff32c35368fba3689f58ce316c9c8') in 0.026982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel4.png
+  artifactKey: Guid(64c8912009cb67c4da6eba0427c58239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel4.png using Guid(64c8912009cb67c4da6eba0427c58239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f33bd304d3aea4c3d05010c068af5ab') in 0.023199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel1_outline.png
+  artifactKey: Guid(323f3299c78f3b641a285c37f1518fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel1_outline.png using Guid(323f3299c78f3b641a285c37f1518fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b588d6e393a015056c8a416c00bcb7') in 0.025791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel2_outline.png
+  artifactKey: Guid(c6ba942a7ab7a9140a68a399a7c60ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel2_outline.png using Guid(c6ba942a7ab7a9140a68a399a7c60ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4279a33cafe188933383659443c0624') in 0.018258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel3_outline.png
+  artifactKey: Guid(3876c728d31f6f34b862617f2f8c2e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel3_outline.png using Guid(3876c728d31f6f34b862617f2f8c2e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a40e670db12925b32f4e83c514cfdff') in 0.019942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001228 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel4_outline.png
+  artifactKey: Guid(07c1f4c62ef52254492412f36d75fc4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel4_outline.png using Guid(07c1f4c62ef52254492412f36d75fc4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdfd41405cb63236caf85335e532747') in 0.021909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel2.png
+  artifactKey: Guid(e84c1b249543466458782d764e8c6f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel2.png using Guid(e84c1b249543466458782d764e8c6f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee4f61c45b8294764afad780bddd794') in 0.025675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel3.png
+  artifactKey: Guid(b7bc3dc32e2afe6438ac4b28ffbbe14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel3.png using Guid(b7bc3dc32e2afe6438ac4b28ffbbe14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c23b31567238a0f03174ac72fcce608') in 0.018609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.403131 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel5_outline.png
+  artifactKey: Guid(90a28b200c851ff439f77d624106fa5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel5_outline.png using Guid(90a28b200c851ff439f77d624106fa5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c3cac2681a094a97a71159dfe46f3d') in 0.028500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel6.png
+  artifactKey: Guid(71e5d7508d42d6040baf77f6b18d2c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel6.png using Guid(71e5d7508d42d6040baf77f6b18d2c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9b381155789442c6b2461dd365ba9a') in 0.021677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_green.png
+  artifactKey: Guid(5e4700e5b917aef489825a9ca13274d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_green.png using Guid(5e4700e5b917aef489825a9ca13274d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9980692a5d20c30d7722f4a0e9232951') in 0.020350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_huge.png
+  artifactKey: Guid(e4535e5f3f3a76a4db030f1d6f05973d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_huge.png using Guid(e4535e5f3f3a76a4db030f1d6f05973d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f71a50179b8e4f6782d3a0a1fa7234f') in 0.024304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_darkLarge.png
+  artifactKey: Guid(449a3c0bf9958a749ad7a1a867f4c258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_darkLarge.png using Guid(449a3c0bf9958a749ad7a1a867f4c258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705a8db2f842a8f7daf385b644567e0a') in 0.021700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_blue.png
+  artifactKey: Guid(f91593bd2f8e5cd4e8595bb4e41ceeb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_blue.png using Guid(f91593bd2f8e5cd4e8595bb4e41ceeb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b9808bfb90033e4c400b3b861a324e7') in 0.023509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_bigRed.png
+  artifactKey: Guid(c1ae25301d458694d9e89df6dc5bb80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_bigRed.png using Guid(c1ae25301d458694d9e89df6dc5bb80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee504aec7d0e09899932fdcf30a78909') in 0.019113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_red.png
+  artifactKey: Guid(8e8b9a95555acf24795cd98709dfc97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_red.png using Guid(8e8b9a95555acf24795cd98709dfc97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe003e47f5fea10a25ce1cf1565922ae') in 0.021418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel7.png
+  artifactKey: Guid(cea3ba47b1c72244faad309f326658aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel7.png using Guid(cea3ba47b1c72244faad309f326658aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79388f271feefba8368d113bb02b2063') in 0.019725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_dark.png
+  artifactKey: Guid(0fa691ff24c88ea479d9408fd0780966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_dark.png using Guid(0fa691ff24c88ea479d9408fd0780966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74730343380cd1203f93473efd2c598d') in 0.017739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel7_outline.png
+  artifactKey: Guid(a4fdd713b2dca0e4e86e7b25a6f8781f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel7_outline.png using Guid(a4fdd713b2dca0e4e86e7b25a6f8781f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d6b8f497719052a6f5e89432d660f9') in 0.027626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel6_outline.png
+  artifactKey: Guid(ae0ad909d54e9664b962e02de1df8c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/specialBarrel6_outline.png using Guid(ae0ad909d54e9664b962e02de1df8c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67bfac7833e225c956e2b3e1fd977264') in 0.018497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.332586 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_sand.png
+  artifactKey: Guid(5348226631446714ab2b6b76f2d8c523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tank_sand.png using Guid(5348226631446714ab2b6b76f2d8c523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def0fa8023c362c0544e8723c70cb48f') in 0.028829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel2_outline.png
+  artifactKey: Guid(189bd3404087ef947ab4df729cf548e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel2_outline.png using Guid(189bd3404087ef947ab4df729cf548e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748ff08dd14891b13093c21c450aaa5e') in 0.019382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_bigRed.png
+  artifactKey: Guid(c496f122eab870746a00fab16521db99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_bigRed.png using Guid(c496f122eab870746a00fab16521db99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3967797091675ba440eb7dbac280380f') in 0.020737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel1.png
+  artifactKey: Guid(f21803de2a0d4794e983ec265bb7898c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel1.png using Guid(f21803de2a0d4794e983ec265bb7898c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f887cb92ef6d14323f4efeea2c26f64e') in 0.020977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_bigRed_outline.png
+  artifactKey: Guid(92f462cada7192f4d8426f77049cb35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_bigRed_outline.png using Guid(92f462cada7192f4d8426f77049cb35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551ac3d76cc3e88fd343c78d591c99b0') in 0.017699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel2.png
+  artifactKey: Guid(639abe271caca724dac63a0217eb81d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel2.png using Guid(639abe271caca724dac63a0217eb81d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '021bdb78d4bd33410d7fac4c1c1cc7fb') in 0.019728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel3.png
+  artifactKey: Guid(8bb2ae654111b354089355bfc23caa36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel3.png using Guid(8bb2ae654111b354089355bfc23caa36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '045ca030bb4142d4565c42848e01fcc6') in 0.022203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel1_outline.png
+  artifactKey: Guid(49efa73c916c7f6418876708b2bea84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel1_outline.png using Guid(49efa73c916c7f6418876708b2bea84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0159e43772a56195d0223ec00aef95b') in 0.020526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel3_outline.png
+  artifactKey: Guid(6b754528c32001b4483d063b16c2241a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBlue_barrel3_outline.png using Guid(6b754528c32001b4483d063b16c2241a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb828f136475e5dbed86fee2bda00fd') in 0.017151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.368762 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_blue.png
+  artifactKey: Guid(e25c51d94fd4ac341a75bea94274c282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_blue.png using Guid(e25c51d94fd4ac341a75bea94274c282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34fc07ed17ba05536c66032621e9aacf') in 0.031137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_darkLarge_outline.png
+  artifactKey: Guid(d92278b2387d9354dbed10cee31582b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_darkLarge_outline.png using Guid(d92278b2387d9354dbed10cee31582b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e6cf504d9ab073aea9102c57b92611') in 0.025355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_dark_outline.png
+  artifactKey: Guid(4b1cac0716620fa4aa88023ea8ac22f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_dark_outline.png using Guid(4b1cac0716620fa4aa88023ea8ac22f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a55b62f9fb0a6233f49c2b69702447d') in 0.020333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_green_outline.png
+  artifactKey: Guid(771fdf506de7c444b9189fea360e99fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_green_outline.png using Guid(771fdf506de7c444b9189fea360e99fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22ecbe528cf3780c3b9915eba6b43d7d') in 0.017904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_darkLarge.png
+  artifactKey: Guid(cfbaefc1ccb2701429df743a08780259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_darkLarge.png using Guid(cfbaefc1ccb2701429df743a08780259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3443e3643c736a70d85312b5ef91f2c6') in 0.020978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_huge_outline.png
+  artifactKey: Guid(625e09e78c6f5234e854bf48ef14c99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_huge_outline.png using Guid(625e09e78c6f5234e854bf48ef14c99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df0f234a2c5f0b037040752d4e2840af') in 0.024419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_red.png
+  artifactKey: Guid(ba7bc74be2b526d4c93a00cb4ce15bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_red.png using Guid(ba7bc74be2b526d4c93a00cb4ce15bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22326c30c62e5848550966617922bf41') in 0.019328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_green.png
+  artifactKey: Guid(2ebecf8b246aedd42b6b1d1a6c128a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_green.png using Guid(2ebecf8b246aedd42b6b1d1a6c128a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c46d9012ec2519194378fe73d88850') in 0.022521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_red_outline.png
+  artifactKey: Guid(6de6eb88bb0d3c9449a8c432c8173abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_red_outline.png using Guid(6de6eb88bb0d3c9449a8c432c8173abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e942c0c81984ce9399a2357303ffd1') in 0.020337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_huge.png
+  artifactKey: Guid(00ab8bcea4c791a489142a905f7f0122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_huge.png using Guid(00ab8bcea4c791a489142a905f7f0122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f2d4d41b72080df525010f8574243f') in 0.020625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_dark.png
+  artifactKey: Guid(518e00f012df77043921c3a5023ab613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_dark.png using Guid(518e00f012df77043921c3a5023ab613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369525885359618ddff81dd24e788d4a') in 0.020470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_blue_outline.png
+  artifactKey: Guid(6a0c08a4584c71f498d59d466ba2cdaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_blue_outline.png using Guid(6a0c08a4584c71f498d59d466ba2cdaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a98da0002492e309e7ffebba3fd4f75') in 0.020788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.281971 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_sand.png
+  artifactKey: Guid(d0231771b78c0f346bfec417d1bb8eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_sand.png using Guid(d0231771b78c0f346bfec417d1bb8eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43326ad8522b882e33dcd3f76baba46') in 0.028730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_sand_outline.png
+  artifactKey: Guid(dd0f085e57eddc941b3384dc36ae0859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankBody_sand_outline.png using Guid(dd0f085e57eddc941b3384dc36ae0859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f98d5ab7cddefcc35bfaf9f39b2d9473') in 0.019162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel1.png
+  artifactKey: Guid(c61fc54b947485d4d890c4774893762f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel1.png using Guid(c61fc54b947485d4d890c4774893762f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb892d07277bede27398ab1fbee53c89') in 0.019537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel1.png
+  artifactKey: Guid(614eb33aa3f08554aa28f6b2a464b4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel1.png using Guid(614eb33aa3f08554aa28f6b2a464b4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97520ddd4d368a5fa500ce881a50b5c') in 0.018549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel3_outline.png
+  artifactKey: Guid(ace2c187abd4ec6488249288d8200e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel3_outline.png using Guid(ace2c187abd4ec6488249288d8200e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94be69f32360c4aa9ed1e5aeb5ef641') in 0.018854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel2.png
+  artifactKey: Guid(54079e22943e93a488889cabed8df81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel2.png using Guid(54079e22943e93a488889cabed8df81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9179072777f5fe2178eed76d186321ad') in 0.019716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel2_outline.png
+  artifactKey: Guid(86b97c4034822cd498045834c7c27cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel2_outline.png using Guid(86b97c4034822cd498045834c7c27cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37b3d1562ad6e5de5b54fc8df4c6c52') in 0.021462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel1_outline.png
+  artifactKey: Guid(58da2d4aaeab5ee4296027c04aae2cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel1_outline.png using Guid(58da2d4aaeab5ee4296027c04aae2cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60d97e38392302a7cb96389d0cc9cbe') in 0.019028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel3.png
+  artifactKey: Guid(e0585a2108950f74ea2cccbdaa0468bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankDark_barrel3.png using Guid(e0585a2108950f74ea2cccbdaa0468bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8371e76dd881043f68aafe6c00265194') in 0.017064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.331141 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel1_outline.png
+  artifactKey: Guid(57a9ff70e402e3f41873a9310590089f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel1_outline.png using Guid(57a9ff70e402e3f41873a9310590089f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '978db463c58287903a0ee43c78b2008a') in 0.030164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel2.png
+  artifactKey: Guid(62a37c2eab5480e4da4ad295e74d8938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel2.png using Guid(62a37c2eab5480e4da4ad295e74d8938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e867607d70c4b5629db2fc8759f22f') in 0.025912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel1_outline.png
+  artifactKey: Guid(32f5222bcb5aa1d43bd146e08913b5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel1_outline.png using Guid(32f5222bcb5aa1d43bd146e08913b5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d8427b900ee5e64e241e0c131342b5') in 0.019952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel2_outline.png
+  artifactKey: Guid(26db40c06a07e904fbc6792dccf1ba0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel2_outline.png using Guid(26db40c06a07e904fbc6792dccf1ba0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e03742a3a5478ee4dafc0644f6532851') in 0.019290 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel1.png
+  artifactKey: Guid(33c67a3b9c019ec4e9e5b50d4dec059c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel1.png using Guid(33c67a3b9c019ec4e9e5b50d4dec059c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f5b7e86b2778ab5ae0b2d2cf71a286') in 0.022645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel3_outline.png
+  artifactKey: Guid(bafe442ba670f3d4b8ddeb8f2480c3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel3_outline.png using Guid(bafe442ba670f3d4b8ddeb8f2480c3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9df9a636b656bfeb7b1273c61e2c6f8d') in 0.021342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel3.png
+  artifactKey: Guid(ee96d198b0a5a464cb4d54471a170a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel3.png using Guid(ee96d198b0a5a464cb4d54471a170a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a248b05dcce563f557fd0db1791fa67') in 0.018955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel2_outline.png
+  artifactKey: Guid(b7629f522072339449b588c83508bea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankGreen_barrel2_outline.png using Guid(b7629f522072339449b588c83508bea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a4bbf6c08ffc96349e16a0fc243cb7') in 0.017520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel3_outline.png
+  artifactKey: Guid(988afc26d0012ab48a5f731d1925ac6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel3_outline.png using Guid(988afc26d0012ab48a5f731d1925ac6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aeef87adfa4040761e7177d09049a02') in 0.019466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel1.png
+  artifactKey: Guid(a7bac430e57faca4080a67fdbe3a3227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel1.png using Guid(a7bac430e57faca4080a67fdbe3a3227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf8cdb6a009d7b17fc5bb677ba79bcb') in 0.019256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel2.png
+  artifactKey: Guid(bb9e9ed0f5e69da429b3b52ee0fab5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel2.png using Guid(bb9e9ed0f5e69da429b3b52ee0fab5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7a6ddb6463314255986f6316b956d1') in 0.018526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel3.png
+  artifactKey: Guid(fb623c735a7ea2747ab500b081b4977d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankRed_barrel3.png using Guid(fb623c735a7ea2747ab500b081b4977d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfe9e5d6744f88b9709344ad879026d') in 0.016754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.266030 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel1_outline.png
+  artifactKey: Guid(5120a9a0bad63934db7d7770dee37e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel1_outline.png using Guid(5120a9a0bad63934db7d7770dee37e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9fc59b1b79b29e119259edfe5f5dda5') in 0.035355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass2.png
+  artifactKey: Guid(6d3a0cb97f3e89a4bb97449da76d906f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass2.png using Guid(6d3a0cb97f3e89a4bb97449da76d906f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9286ef4aa2ca6e98f40f82f316aa8d73') in 0.024353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel2.png
+  artifactKey: Guid(d731471244bfb824f9f5ec48a66a629a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel2.png using Guid(d731471244bfb824f9f5ec48a66a629a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49115eb1641417a4123b4ce4e531b7b3') in 0.021995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCrossing.png
+  artifactKey: Guid(33e18faff64e4fa47baa6a7cdb444450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCrossing.png using Guid(33e18faff64e4fa47baa6a7cdb444450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db624e08c4b3436fe4f51c50cb4f58f4') in 0.019520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCornerLL.png
+  artifactKey: Guid(ecd00c6874b2c19428d415cd14beb354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCornerLL.png using Guid(ecd00c6874b2c19428d415cd14beb354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8695f46634f28996158329af06fd78') in 0.018784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass1.png
+  artifactKey: Guid(349cff221c1ec074791ece0069b373d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass1.png using Guid(349cff221c1ec074791ece0069b373d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12eaf1238c97f3c8518c1f20c4907a07') in 0.021657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCornerUR.png
+  artifactKey: Guid(e03c80faa03c58f48954c2a29ec8e5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCornerUR.png using Guid(e03c80faa03c58f48954c2a29ec8e5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04cdf8db5e845b7d9047c9d7bbf6622') in 0.022740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel3.png
+  artifactKey: Guid(771c7be082ccf254a9b1878efb1e1055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel3.png using Guid(771c7be082ccf254a9b1878efb1e1055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23cf6ec6472b8c409b0f25039284302a') in 0.018868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCornerLR.png
+  artifactKey: Guid(0b71611d011a8074ebadf7cc0a8b66ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCornerLR.png using Guid(0b71611d011a8074ebadf7cc0a8b66ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a8e0ee164eb41997eb48e3532255524') in 0.020435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel3_outline.png
+  artifactKey: Guid(154de520b1c4b344f87922e0b3f621b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel3_outline.png using Guid(154de520b1c4b344f87922e0b3f621b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ca3320518671062f890ad5a3cab15a8') in 0.018519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCornerUL.png
+  artifactKey: Guid(361f51b962f6ff44ea152aa93559502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCornerUL.png using Guid(361f51b962f6ff44ea152aa93559502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5753c8576d2d62a0a17af125a9bce6be') in 0.020579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel2_outline.png
+  artifactKey: Guid(ded53b7d0d84f894789af3cfc9e9eaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tankSand_barrel2_outline.png using Guid(ded53b7d0d84f894789af3cfc9e9eaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc23171d44d6ca3884312aecf1a3c11d') in 0.020239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.241184 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCrossingRound.png
+  artifactKey: Guid(52c2d4138c814ba41ac758a922ec97c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadCrossingRound.png using Guid(52c2d4138c814ba41ac758a922ec97c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd098c6d7e1c71fa2a0d1732d1c54340a') in 0.038131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionS.png
+  artifactKey: Guid(c06a341d3c49dd84cb2a5b508c49d82d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionS.png using Guid(c06a341d3c49dd84cb2a5b508c49d82d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4649aa5536e7294de73afa553c987a8') in 0.022202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadSplitN.png
+  artifactKey: Guid(6187ec96bb962284f929b942abe4870d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadSplitN.png using Guid(6187ec96bb962284f929b942abe4870d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0d53b45b072dea1075231b58a47d49') in 0.024683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadEast.png
+  artifactKey: Guid(630418f879277504c82eac30c390817c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadEast.png using Guid(630418f879277504c82eac30c390817c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02d3f08a8cd296c50a33bd6699ce4ff') in 0.021172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadNorth.png
+  artifactKey: Guid(9dc3d77b861c2f045acbec976a5f2791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadNorth.png using Guid(9dc3d77b861c2f045acbec976a5f2791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99e88c7e55c1c7d7130d6a9b464e5e70') in 0.021400 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionN.png
+  artifactKey: Guid(79bc5f2fe4b6dd748b4ce3f9b0e0e32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionN.png using Guid(79bc5f2fe4b6dd748b4ce3f9b0e0e32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '906e88b6d5769dd33b92e20c2b8cc450') in 0.019172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionN_dirt.png
+  artifactKey: Guid(d6fd13ddfec23384e8f49b6b4ec6308e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionN_dirt.png using Guid(d6fd13ddfec23384e8f49b6b4ec6308e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abfb492440b56539704103041d9d64d3') in 0.020810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionE_dirt.png
+  artifactKey: Guid(54ea578f1203c044493197ceba0854ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionE_dirt.png using Guid(54ea578f1203c044493197ceba0854ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ca4579ba96be233333fb67808c589c') in 0.021067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadSplitE.png
+  artifactKey: Guid(7c021fcebd2403f4bac27ecc02f126e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadSplitE.png using Guid(7c021fcebd2403f4bac27ecc02f126e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abfc34c695f435448165bc021d0e931c') in 0.023908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadSplitS.png
+  artifactKey: Guid(5eb08b7beab2905468a834f71af83303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadSplitS.png using Guid(5eb08b7beab2905468a834f71af83303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5466ae93eafeb0d6ae8931879090e5eb') in 0.023177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadSplitW.png
+  artifactKey: Guid(a702d03eae7291f4c9a5b8bd8000a1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadSplitW.png using Guid(a702d03eae7291f4c9a5b8bd8000a1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af27c9896dc48538dcd1fcfe212cca2') in 0.021247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionE.png
+  artifactKey: Guid(433b48772802ccd4f8205a8c74a5155f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionE.png using Guid(433b48772802ccd4f8205a8c74a5155f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75769f5f5d8a9b9f898304fe56dc8d9') in 0.021192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.408814 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionS_dirt.png
+  artifactKey: Guid(5062885332ea868429d1dfa409307cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionS_dirt.png using Guid(5062885332ea868429d1dfa409307cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6af3786341bcf680343dab8fb35cf86') in 0.076303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionS.png
+  artifactKey: Guid(6c66a69861b0ab445802ef4b35a262d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionS.png using Guid(6c66a69861b0ab445802ef4b35a262d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7ed872dbcd5c1f83254bd283cc7ef8') in 0.020036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionN.png
+  artifactKey: Guid(1ff0069115363794db07724708b86ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionN.png using Guid(1ff0069115363794db07724708b86ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733f8321579a9a52a4db8b37f0ead609') in 0.021274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionCorner_2.png
+  artifactKey: Guid(399f7943a4b77b747864ba4926e044f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionCorner_2.png using Guid(399f7943a4b77b747864ba4926e044f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da8bcf1a6afb5fbf44cd166aa7c2f9b') in 0.024578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionW.png
+  artifactKey: Guid(fb7d3849b5a33514bb939aff840af002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionW.png using Guid(fb7d3849b5a33514bb939aff840af002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa873fe8297f92ead0488948301d054') in 0.024312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionE.png
+  artifactKey: Guid(43fa60b6be8d99149b71b1ec1b3368cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionE.png using Guid(43fa60b6be8d99149b71b1ec1b3368cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f1b551595cfbd344468ba5dc52579b') in 0.022142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionW.png
+  artifactKey: Guid(03f1aeb79aafb244499a26a073b10b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionW.png using Guid(03f1aeb79aafb244499a26a073b10b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cefb4ed0a9295594196f76d0355e3ca') in 0.023467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionW_dirt.png
+  artifactKey: Guid(757ff63334e5b4145bca8b964ba40ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_roadTransitionW_dirt.png using Guid(757ff63334e5b4145bca8b964ba40ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a47264ce4e184b08582bb6efe20d5f') in 0.020679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionCorner_1.png
+  artifactKey: Guid(1ab9e5a2e85986447855c3fe9fa2c916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileGrass_transitionCorner_1.png using Guid(1ab9e5a2e85986447855c3fe9fa2c916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f635d3224e1b12e7d5e3b186182b8a') in 0.022259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.418932 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand1.png
+  artifactKey: Guid(2b530474797bb764d8e11d6c380147a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand1.png using Guid(2b530474797bb764d8e11d6c380147a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e636cb48068ebb59b65305f0db7c3531') in 0.033574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCornerLR.png
+  artifactKey: Guid(0de3db0d1a6ca5248adc66a8db5571be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCornerLR.png using Guid(0de3db0d1a6ca5248adc66a8db5571be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b9c65ac653f5d5fdf9da4c0d57590ce') in 0.019194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCornerUL.png
+  artifactKey: Guid(eaf6c5b16cfdf344eba3ee32efc79d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCornerUL.png using Guid(eaf6c5b16cfdf344eba3ee32efc79d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d837573ff4faca17769e156940115e') in 0.022457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCrossing.png
+  artifactKey: Guid(396cb0487b0b28e4e993430751fd3d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCrossing.png using Guid(396cb0487b0b28e4e993430751fd3d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b613fb729758a5809efa6cf5bec8c33') in 0.023490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadEast.png
+  artifactKey: Guid(71e9fc41b5ddfdb4a89855512c1d367c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadEast.png using Guid(71e9fc41b5ddfdb4a89855512c1d367c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca05dbf7322f984cb8ee6093507dfc5') in 0.020596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCrossingRound.png
+  artifactKey: Guid(9662b2fbce5f8444cbf5536a2c190b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCrossingRound.png using Guid(9662b2fbce5f8444cbf5536a2c190b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca980c86536ea5989a49c8154055575') in 0.022415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand2.png
+  artifactKey: Guid(40f86ee9674217c43bc612ae87909ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand2.png using Guid(40f86ee9674217c43bc612ae87909ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e80eae8535cc3d7476bee370f88b9d') in 0.021582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCornerLL.png
+  artifactKey: Guid(e609a1b3052f8264eb443c997de1645b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCornerLL.png using Guid(e609a1b3052f8264eb443c997de1645b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d65e9993f03b4bedfe23af223878c3c') in 0.023110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCornerUR.png
+  artifactKey: Guid(60c71c372690fe343a6d2f97f7ecbd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadCornerUR.png using Guid(60c71c372690fe343a6d2f97f7ecbd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070bf72cefa256513264256060304e28') in 0.021507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.402784 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadNorth.png
+  artifactKey: Guid(6de58a1cbf005584eace3ef87c51c4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadNorth.png using Guid(6de58a1cbf005584eace3ef87c51c4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ca4a04d1958f2d290cc0541d661a88') in 0.031883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadSplitE.png
+  artifactKey: Guid(ad9ac1cbd3ebd11468321ed73071eb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadSplitE.png using Guid(ad9ac1cbd3ebd11468321ed73071eb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5a766ee26907bc7274d72458ec5a3e') in 0.022370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadSplitN.png
+  artifactKey: Guid(4ce1756ac3b89044db2fd3d2cd186aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadSplitN.png using Guid(4ce1756ac3b89044db2fd3d2cd186aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72498ce06954e07b09a6e314bc97f68c') in 0.019792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksDouble.png
+  artifactKey: Guid(8f23081a004324444aeaa8a8bce80b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksDouble.png using Guid(8f23081a004324444aeaa8a8bce80b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485f7b61a4764932390329dc425e67e7') in 0.021443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadSplitW.png
+  artifactKey: Guid(668cb6bf274ed5f4cb910693bcb6a16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadSplitW.png using Guid(668cb6bf274ed5f4cb910693bcb6a16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b88b083d377d8e9c582dca72614c237') in 0.020845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksSmall.png
+  artifactKey: Guid(0521d1b2dc2968b48acb5bf8b381ddf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksSmall.png using Guid(0521d1b2dc2968b48acb5bf8b381ddf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99025f423307ce3bc8d057f21e4d0eb7') in 0.019957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksLarge.png
+  artifactKey: Guid(4879fa9f552e40045abc472b2959696a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksLarge.png using Guid(4879fa9f552e40045abc472b2959696a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd6b2d3aa929b0256c7a0360f3b5c56') in 0.020266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksSmallSingle.png
+  artifactKey: Guid(004bdee4619a7f94f9357eeb05e5ef93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksSmallSingle.png using Guid(004bdee4619a7f94f9357eeb05e5ef93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4326c57a30c213af0606996528d8d1c') in 0.018981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadSplitS.png
+  artifactKey: Guid(bd2ba73959a83604d84f4fce1945898a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tileSand_roadSplitS.png using Guid(bd2ba73959a83604d84f4fce1945898a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '926c73625e55032b6ade95110fd1a209') in 0.022283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.421261 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeBrown_large.png
+  artifactKey: Guid(9740203f232539d4b80c83c20a3fa5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeBrown_large.png using Guid(9740203f232539d4b80c83c20a3fa5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba37f079289f78bafa6e84c37ccc20a3') in 0.048245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/wireCrooked.png
+  artifactKey: Guid(26b69ed0319e8b344a326c6e021eb251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/wireCrooked.png using Guid(26b69ed0319e8b344a326c6e021eb251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd563c6de70ad427b835bcc395ec174ec') in 0.019358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeGreen_large.png
+  artifactKey: Guid(d49a8a028f37c59479f1cd2919d2515c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeGreen_large.png using Guid(d49a8a028f37c59479f1cd2919d2515c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e303737f909183e6a44277a74940e4a') in 0.021543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeGreen_small.png
+  artifactKey: Guid(631692d44103149478857c19ca460f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeGreen_small.png using Guid(631692d44103149478857c19ca460f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21566f6114a5b7e21c8f0a87fc796987') in 0.022419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeGreen_twigs.png
+  artifactKey: Guid(b134f215da3c147429c45c13939d98dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeGreen_twigs.png using Guid(b134f215da3c147429c45c13939d98dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3193466440c4f2cff403ea6d9081e1') in 0.022570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/wireStraight.png
+  artifactKey: Guid(53923d698e9e4994e81e165114475246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/wireStraight.png using Guid(53923d698e9e4994e81e165114475246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b117ecde6b4d1b4777444beb5b99c4c1') in 0.021991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeGreen_leaf.png
+  artifactKey: Guid(45d19a0443b17474aa73b4ceaec79d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeGreen_leaf.png using Guid(45d19a0443b17474aa73b4ceaec79d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82cd020fdcbbcbdd8af05d9820cee546') in 0.021439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeBrown_leaf.png
+  artifactKey: Guid(2d7483b9a136c844fb1ce1b453095e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeBrown_leaf.png using Guid(2d7483b9a136c844fb1ce1b453095e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63673bbb0333b44b7dae71452687e141') in 0.020940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeBrown_small.png
+  artifactKey: Guid(db33e4f0ae47da84ea217c3ea9e14306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeBrown_small.png using Guid(db33e4f0ae47da84ea217c3ea9e14306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18db192fd280d01bd11af7051d617bb') in 0.020305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeBrown_twigs.png
+  artifactKey: Guid(766cc3f6ee5f1b84e858162b7c59fce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/treeBrown_twigs.png using Guid(766cc3f6ee5f1b84e858162b7c59fce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dfc8989ed1d0753028fa8ba49485a4a') in 0.020834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 976.685126 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/Tiles
+  artifactKey: Guid(0a98300de6098a245a39072f25546194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/Tiles using Guid(0a98300de6098a245a39072f25546194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6d68078e7083b364a0f16e2d99b8f9') in 0.009883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.772768 seconds.
+  path: Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksSmall.png
+  artifactKey: Guid(0521d1b2dc2968b48acb5bf8b381ddf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kenny Topdown Tanks Redux/PNG/Retina/tracksSmall.png using Guid(0521d1b2dc2968b48acb5bf8b381ddf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e356f3f09c568f0c2bd1004b024e633e') in 0.012624 seconds 
